@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="1" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="0.722">
+    <testcase classname="US1013 kullanici excel bilgilerine ulasir" name="TC18 kullanici excel bilgilerini kullanir" time="0.177">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception">
+            <![CDATA[Given kullanici excel dosyasini kullanilabilir hale getirir.................undefined
+Then 1.satirdaki 2.hucreye yazdirir.........................................skipped
+And baskenti Jakarta olan ulke ismini yazdirir..............................skipped
+And Ulke sayisinin 190 oldugunu test eder...................................skipped
+And Fiziki olarak kullanilan satir sayisinin 191 oldugunu test eder.........skipped
+Then 3.Satir 2.sutundaki bilgiyi yazdirir...................................skipped
+]]>
+        </failure>
+    </testcase>
+</testsuite>
